@@ -36,7 +36,7 @@ This folder focuses on Python programming and related backend development concep
 - Asynchronous programming
 - Data validation
 - Unit testing
-- Web frameworks (Django and Flask)
+- Web frameworks (Django, Flask and FastAPI)
 
 ### 4. Projects
 This folder contains two complete projects built from scratch demonstrating backend development:
