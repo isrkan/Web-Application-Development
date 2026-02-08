@@ -1,0 +1,9 @@
+[project]
+name = "basic-api"
+version = "1.0.0"
+description = "Basic API setup with FastAPI - demonstrating basic setup and endpoints"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.109.0",
+    "uvicorn[standard]>=0.27.0",
+]
